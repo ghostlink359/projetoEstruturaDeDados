@@ -1,4 +1,4 @@
-# TrabalhoGabriel
+# Projeto de Estrutura de Dados
 
 # Estruturas, Pesquisa e Ordenação de Dados
 
